@@ -1,6 +1,6 @@
 > #### Git config
 
->> git config --list
+>> **git config --list**
 
 >> git config --global user.email "inserir e-mail"
 
