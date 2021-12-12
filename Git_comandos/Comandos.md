@@ -4,7 +4,10 @@
 
 >> git config --global user.email "inserir e-mail"
 
->> git config --global user.nickname ""
+>> git config --global user.nickname ""  
+
+  
+  
 
 
 > #### Git init
