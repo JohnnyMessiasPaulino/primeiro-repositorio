@@ -1,8 +1,10 @@
-git config --list
+> #### Git config
 
-git config --global user.email "inserir e-mail"
+>> git config --list
 
-git config --global user.nickname ""
+>> git config --global user.email "inserir e-mail"
+
+>> git config --global user.nickname ""
 
 
 > #### Git init
@@ -89,7 +91,7 @@ git config --global user.nickname ""
 
 > **git commit -m "mensagem explicando a mudança no código"**
 
-> ####Git push
+> #### Git push
 
 >> Após confirmar as alterações, a próxima coisa que você deseja fazer é enviar as alterações para o servidor remoto.
 
